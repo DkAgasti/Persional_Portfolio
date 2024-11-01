@@ -37,19 +37,19 @@ const ProjectsSection = () => {
     },
     {
       image: '/todo.png',
-      title: 'Project 3',
+      title: 'Project 4',
       Demo: 'https://todo-list-using-react-chi.vercel.app/',
       Code: 'https://github.com/DkAgasti/TodoList-Using-React',
     },
     {
       image: '/ecom.png',
-      title: 'Project 3',
+      title: 'Project 5',
       Demo: ' https://ecommerce-website-react-lake.vercel.app',
       Code: 'https://github.com/DkAgasti/Ecommerce_Website_React',
     },
     {
       image: '/Modern.jpeg',
-      title: 'Project 3',
+      title: 'Project 6',
       Demo: 'https://dkagasti.github.io/college__clone/',
       Code: 'https://github.com/DkAgasti/college__clone',
     },
